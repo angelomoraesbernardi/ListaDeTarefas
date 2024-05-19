@@ -6,6 +6,7 @@ public class ProgramaListaTarefa {
 	public static void main (String[] arg) {
 		InicioPrograma inicio = new InicioPrograma();
 		inicio.mensgemBoasVindas();
+		
 	}
 
 }
